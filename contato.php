@@ -94,7 +94,7 @@
                     <div class="fbox-icon">
                         <i class="icon-map-marker2 icon-sm"></i>
                     </div>
-                    <h3>Endereço<span class="subtitle">Rua Baleia Jubarte, nº242, Loja 02, José Amândio.</span></h3>
+                    <h3>Endereço<span class="subtitle">Rua Baleia Jubarte, nº242,<br> Loja 02, José Amândio.</span></h3>
                 </div>
             </div>
 
@@ -103,7 +103,7 @@
                     <div class="fbox-icon">
                         <i class="icon-phone3 icon-sm"></i>
                     </div>
-                    <h3>Telefone<span class="subtitle">+55 (47) 9999-9999</span></h3>
+                    <h3>Telefone<span class="subtitle">+55 (47) 9 8438-3077<br>+55 (47) 3264-1443</span></h3>
                 </div>
             </div>
 
