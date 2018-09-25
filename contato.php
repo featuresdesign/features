@@ -89,7 +89,7 @@
         ============================================= -->
         <div class="row clear-bottommargin">
 
-            <div class="col-lg-6 col-md-6 bottommargin clearfix">
+            <div class="col-lg-4 col-md-4 bottommargin clearfix">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
                         <i class="icon-map-marker2 icon-sm"></i>
@@ -98,12 +98,21 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-6 bottommargin clearfix">
+            <div class="col-lg-4 col-md-4 bottommargin clearfix">
                 <div class="feature-box fbox-center fbox-bg fbox-plain">
                     <div class="fbox-icon">
                         <i class="icon-phone3 icon-sm"></i>
                     </div>
                     <h3>Telefone<span class="subtitle">+55 (47) 9 8438-3077<br>+55 (47) 3264-1443</span></h3>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 bottommargin clearfix">
+                <div class="feature-box fbox-center fbox-bg fbox-plain">
+                    <div class="fbox-icon">
+                        <i class="icon-email3 icon-sm"></i>
+                    </div>
+                    <h3>E-mail<span class="subtitle">contato@features.com.br<br>-</span></h3>
                 </div>
             </div>
 
