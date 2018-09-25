@@ -277,7 +277,7 @@
                 ============================================= -->
                 <div class="col_half col_last map">
 
-                    <section id="google-map" class="gmap" style="height: 410px;"></section>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3550.1379291245194!2d-48.50330343494993!3d-27.151950183025086!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527381668565f7b%3A0xaf8890b86cb99014!2sFeatures+Design+e+Consultoria+em+Marketing+digital!5e0!3m2!1spt-BR!2sbr!4v1537885068129" height="270" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                 </div><!-- Google Map End -->
 
@@ -321,8 +321,5 @@
         </div>
 
     </section><!-- #content end -->
-    <script src="https://maps.google.com/maps/api/js?key=AIzaSyDMxJ92oBkSnVNHFX3R8XhtYQPEgk1_IiI"></script>
-    <script src="js/jquery.gmap.js"></script>
 
-    <script src="js/maps.js"></script>
 <?php include_once "_footer.php"; ?>
