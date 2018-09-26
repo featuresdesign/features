@@ -56,7 +56,7 @@
                     <div class="heading-block fancy-title nobottomborder title-bottom-border">
                         <h4>Valores</h4>
                     </div>
-                    <p>
+                    <p class="text-justify">
                         - Honestidade;<br>
                         - Busca da Excelência;<br>
                         - Liderança;<br>

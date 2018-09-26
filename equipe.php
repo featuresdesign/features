@@ -13,10 +13,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/3.jpg" alt="John Doe">
+                        <img src="images/equipe/michela.jpg" alt="Michela França">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
+                        <div class="team-title"><h4>MICHELA FRANÇA</h4><span>Mestra em Design e especialista em Design Estratégico pela UFSC.</span></div>
                     </div>
                 </div>
 
@@ -26,10 +26,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/2.jpg" alt="Josh Clark">
+                        <img src="images/equipe/roger.jpg" alt="Roger Goulart">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>Josh Clark</h4><span>Co-Founder</span></div>
+                        <div class="team-title"><h4>ROGER GOULART</h4><span>Comercial/Financeiro</span></div>
                     </div>
                 </div>
 
@@ -39,10 +39,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/8.jpg" alt="Mary Jane">
+                        <img src="images/equipe/ricardo.jpg" alt="Ricardo Dalri">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>Mary Jane</h4><span>Sales</span></div>
+                        <div class="team-title"><h4>RICARDO DALRI</h4><span>Designer Gráfico pela UNIVALI</span></div>
                     </div>
                 </div>
 
@@ -52,10 +52,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/4.jpg" alt="Nix Maxwell">
+                        <img src="images/equipe/rodrigo.jpg" alt="Rodrigo Dalri">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>Nix Maxwell</h4><span>Support</span></div>
+                        <div class="team-title"><h4>RODRIGO DALRI</h4><span>Editor audiovisual formado em Jornalismo pela UNIVALI</span></div>
                     </div>
                 </div>
 
@@ -65,10 +65,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/3.jpg" alt="John Doe">
+                        <img src="images/equipe/victor.jpg" alt="Victor Moraes">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
+                        <div class="team-title"><h4>VICTOR MORAES</h4><span>Social Media, graduando em Sistemas de Informação pelo IF</span></div>
                     </div>
                 </div>
 
@@ -78,10 +78,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/2.jpg" alt="Josh Clark">
+                        <img src="images/equipe/novack.jpg" alt="Victor Novack">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>Josh Clark</h4><span>Co-Founder</span></div>
+                        <div class="team-title"><h4>VICTOR NOVACK</h4><span>Customer Success formado em Relações Públicas pela UNIVALI</span></div>
                     </div>
                 </div>
 
@@ -91,10 +91,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/8.jpg" alt="Mary Jane">
+                        <img src="images/equipe/mabel.jpg" alt="Mabel Miranda">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>Mary Jane</h4><span>Sales</span></div>
+                        <div class="team-title"><h4>MABEL MIRANDA</h4><span>Designer Gráfico pela UNIVALI</span></div>
                     </div>
                 </div>
 
@@ -104,10 +104,10 @@
 
                 <div class="team">
                     <div class="team-image">
-                        <img src="images/team/4.jpg" alt="Nix Maxwell">
+                        <img src="images/equipe/david.jpg" alt="David Spader">
                     </div>
                     <div class="team-desc team-desc-bg">
-                        <div class="team-title"><h4>Nix Maxwell</h4><span>Support</span></div>
+                        <div class="team-title"><h4>DAVID SPADER</h4><span>Estagiário em TI, graduando em Sistemas da Internet pela UNIVALI</span></div>
                     </div>
                 </div>
 
