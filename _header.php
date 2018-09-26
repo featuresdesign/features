@@ -91,11 +91,11 @@
                                 </ul>
                             </div>
                         </li>
-                        <li><a href="#"><div>Workshop</div></a>
+                        <li><a href="#"><div>Consultoria</div></a>
                             <ul>
-                                <li><a href="#"><div><i class="icon-link"></i>2015</div></a></li>
-                                <li><a href="#"><div><i class="icon-link"></i>2016</div></a></li>
-                                <li><a href="#"><div><i class="icon-link"></i>2017</div></a></li>
+                                <li><a href="#"><div><i class="icon-link"></i>Posicionamento de marcas</div></a></li>
+                                <li><a href="#"><div><i class="icon-link"></i>Planejamento estratégico digital</div></a></li>
+                                <li><a href="#"><div><i class="icon-link"></i>Consultoria hoteleira</div></a></li>
                             </ul>
                         </li>
                         <li><a href="portfolio.php"><div>Portfolio</div></a></li>
