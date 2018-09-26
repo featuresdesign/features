@@ -56,13 +56,13 @@
                     <div class="heading-block fancy-title nobottomborder title-bottom-border">
                         <h4>Valores</h4>
                     </div>
-                    <ul>
-                        <li> - Honestidade;</li>
-                        <li> - Busca da Excelência;</li>
-                        <li> - Liderança;</li>
-                        <li> - Expansão;</li>
-                        <li> - Respeito pela vida.</li>
-                    </ul>
+                    <p>
+                        - Honestidade;<br>
+                        - Busca da Excelência;<br>
+                        - Liderança;<br>
+                        - Expansão;<br>
+                        - Respeito pela vida.<br>
+                    </p>
 
                 </div>
 
