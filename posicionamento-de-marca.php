@@ -8,14 +8,11 @@
                 <div class="heading-block topmargin">
                     <h1>POSICIONAMENTO DE MARCA</h1>
                 </div>
-                <p class="text-justify">
-                    QUAIS AS CARACTERÍSTICAS VEM À MENTE DAS PESSOAS QUANDO PENSAM NA SUA MARCA? QUAL O BENEFÍCIO PRINCIPAL E FUNDAMENTAL PARA QUE OS CONSUMIDORES ADQUIRAM A SUA MARCA?
-                </p>
+                <p class="text-justify">Quais as características vem à mente das pessoas quando pensam na sua marca? Qual o benefício principal e fundamental para queos consumidores adquiram a sua marca?</p>
                 <p class="text-justify">A consultoria em posicionamento de marcas ajuda a entender o diferencial de cada marca e definir uma estratégia para construção de uma imagem que a represente.</p>
             </div>
 
             <div class="col-xl-7">
-
                 <div style="position: relative; margin-bottom: -60px;" class="ohidden" data-height-xl="426"
                      data-height-lg="567" data-height-md="470" data-height-md="287" data-height-xs="183">
                     <img src="images/services/main-fbrowser.png" style="position: absolute; top: 0; left: 0;"
@@ -23,7 +20,6 @@
                     <img src="images/services/main-fmobile.png" style="position: absolute; top: 0; left: 0;"
                          data-animate="fadeInUp" data-delay="400" alt="iPad">
                 </div>
-
             </div>
 
         </div>
@@ -39,7 +35,7 @@
     <div class="row bottommargin-sm">
 
         <div class="col-md-4">
-            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="100">
+            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
                     <a href="#"><i class="icon-arrow-right2"></i></a>
                 </div>
@@ -48,7 +44,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="100">
+            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
                     <a href="#"><i class="icon-arrow-right2"></i></a>
                 </div>
@@ -57,7 +53,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="100">
+            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
                     <a href="#"><i class="icon-arrow-right2"></i></a>
                 </div>
@@ -66,7 +62,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="100">
+            <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
                     <a href="#"><i class="icon-arrow-right2"></i></a>
                 </div>
