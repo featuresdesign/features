@@ -95,7 +95,7 @@
                             <ul>
                                 <li><a href="posicionamento-de-marca.php"><div><i class="icon-link"></i>Posicionamento de marcas</div></a></li>
                                 <li><a href="planejamento-estrategico-digital.php"><div><i class="icon-link"></i>Planejamento estratégico digital</div></a></li>
-                                <li><a href="#"><div><i class="icon-link"></i>Consultoria hoteleira</div></a></li>
+                                <li><a href="consultoria-hoteleira.php"><div><i class="icon-link"></i>Consultoria hoteleira</div></a></li>
                             </ul>
                         </li>
                         <li><a href="portfolio.php"><div>Portfolio</div></a></li>
