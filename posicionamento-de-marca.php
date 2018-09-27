@@ -8,7 +8,7 @@
                 <div class="heading-block topmargin">
                     <h1>POSICIONAMENTO DE MARCA</h1>
                 </div>
-                <p class="text-justify">Quais as características vem à mente das pessoas quando pensam na sua marca? Qual o benefício principal e fundamental para queos consumidores adquiram a sua marca?</p>
+                <p class="text-justify"><strong>Quais as características vem à mente das pessoas quando pensam na sua marca? Qual o benefício principal e fundamental para queos consumidores adquiram a sua marca?</strong></p>
                 <p class="text-justify">A consultoria em posicionamento de marcas ajuda a entender o diferencial de cada marca e definir uma estratégia para construção de uma imagem que a represente.</p>
             </div>
 
