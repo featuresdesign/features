@@ -37,7 +37,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>PLANEJAMENTO E ASSESSORIA COMERCIAL</h3>
                 <p>Pesquisa mercadológica da concorrência; Análise dos tipos de unidades habitacionais e definição dos diferenciais comerciais.</p>
@@ -46,7 +46,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>GESTÃO COMERCIAL</h3>
                 <p>Estratégia de vendas e distribuição on-line; Planejamento de tarifário e revenue management; Análise e definição de formas, prazos de pagamento e política de reservas e cancelamento; Acompanhamento mensal de vendas e taxas de ocupação.</p>
@@ -55,7 +55,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>TECNOLOGIA</h3>
                 <p>Definimos a tecnologia necessária para melhorar a perfomance. Sugerimos ferramentas de gestão de unidades, damos suporte na implementação de ferramentas de venda direta e automação de marketing.</p>
@@ -64,7 +64,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>DIAGNÓSTICO DIGITAL</h3>
                 <p>Analisamos o seu negócio e presença digital para verificar eventuais desafios e oportunidades de complementaridade, revisão e restruturação do seu negócio.</p>
@@ -73,7 +73,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>PLANEJAMENTO DIGITAL</h3>
                 <p>Geramos 01 relatório com Definição de estratégias para melhorar a comunicação e geração de calendário editorial para 01 ano de ação.</p>
@@ -82,7 +82,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>INTEGRAÇÃO DE FERRAMENTAS</h3>
                 <p>Configuramos as ferramentas de marketing e vendas online, integrando com site, blog e motor de reservas.</p>
@@ -91,7 +91,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>GERAÇÃO DE CONTEÚDO</h3>
                 <p>Produzimos materiais ricos e geramos oportunidades para captação de leads.</p>

@@ -181,16 +181,16 @@
                      data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2" data-items-sm="3"
                      data-items-md="4" data-items-lg="5" data-items-xl="6">
 
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/1-sebrae.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/2-ifcssc.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/3-logoufsc.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/4-cvbcostaesmeralda.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/5-redecostaesmeralda.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/6-rd.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/7-oaytour.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/8-aemb.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/9-ebusca-einova.png" alt="Parceiros"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/parceiros/10-hsystem.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/1-sebrae.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/2-ifcssc.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/3-logoufsc.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/4-cvbcostaesmeralda.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/5-redecostaesmeralda.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/6-rd.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/7-oaytour.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/8-aemb.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/9-ebusca-einova.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a><img src="images/parceiros/10-hsystem.png" alt="Parceiros"></a></div>
 
                 </div>
 
@@ -292,7 +292,7 @@
                             <div class="fbox-icon">
                                 <i class="icon-map-marker2 icon-sm"></i>
                             </div>
-                            <h3>Endereço<span class="subtitle">Rua Baleia Jubarte, nº242,<br> Loja 02, José Amândio.</span></h3>
+                            <h3>Endereço<span class="subtitle">Rua Baleia Jubarte, nº242, Loja 02, José Amândio, Bombinhas, SC</span></h3>
                         </div>
                     </div>
 

@@ -37,7 +37,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>POSICIONAMENTO</h3>
                 <p>Momento em que é definido o posicionamento da marca e como ela deve ser lembrada pelo consumidor.</p>
@@ -46,7 +46,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>PERSONALIDADE DA MARCA</h3>
                 <p>Definir uma personalidade clara e objetiva é essencial para que o consumidor valorize os atributos do produto/serviço da empresa.</p>
@@ -55,7 +55,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>CRIAÇÃO DE PERSONAS</h3>
                 <p>Definimos personas para comunicar a sua empresa com as pessoas certas, aumentando as chances de sucesso das estratégias digitais.</p>
@@ -64,7 +64,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>PROPOSTA DE VALOR</h3>
                 <p>Define o que a empresa oferece com o que realmente tem valor para os seus clientes.</p>

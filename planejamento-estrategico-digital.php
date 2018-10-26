@@ -37,7 +37,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>INVESTIGAÇÃO</h3>
                 <p>Momento em que é definido o objeto do PEMD e levantados todos os dados sobre a empresa, o mercado e o produto-serviço.</p>
@@ -46,7 +46,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>DIAGNÓSTICO ESTRATÉGICO</h3>
                 <p>No diagnóstico são realizadas análises com o método PEST, Matriz SWOT, Análise de SEO.</p>
@@ -55,7 +55,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>DEFINIÇÃO DE PERSONAS</h3>
                 <p>Definimos personas para comunicar a sua empresa com as pessoas certas, aumentando as chances de sucesso das estratégias digitais.</p>
@@ -64,7 +64,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>OBJETIVOS SMART</h3>
                 <p>São definidos os objetivos de acordo com o método SMART.</p>
@@ -73,7 +73,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>DEFINIÇÃO DE ESTRATÉGIAS</h3>
                 <p>Definição de como vamos alcançar os objetivos. Desenvolvimento do plano tático com recomendações por Stakeholder ou por canal plano operacional.</p>
@@ -82,7 +82,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>DEFINIÇÃO DO MONITORAMENTO</h3>
                 <p>Definição de métricas conforme os objetivos definidos.</p>
@@ -91,7 +91,7 @@
         <div class="col-md-4">
             <div class="feature-box topmargin" data-animate="fadeIn" data-delay="10">
                 <div class="fbox-icon">
-                    <a href="#"><i class="icon-arrow-right2"></i></a>
+                    <a><i class="icon-arrow-right2"></i></a>
                 </div>
                 <h3>MAPA SEMÂNTICO</h3>
                 <p>Além do relatório, entregamos o diagnóstico digital com os pontos mais importantes para sua empresa. Utilizamos um mapa semântico onde exploramos visualmente os apontamentos do planejamento.</p>
