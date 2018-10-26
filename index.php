@@ -172,7 +172,7 @@
 
                 <div class="container clearfix m-bot-100">
                     <div class="heading-block center nomargin">
-                        <h3>NOSSOS CLIENTES</h3>
+                        <h3>PARCEIROS DE DESENVOLVIMENTO</h3>
                     </div>
                 </div>
 
@@ -181,16 +181,16 @@
                      data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2" data-items-sm="3"
                      data-items-md="4" data-items-lg="5" data-items-xl="6">
 
-                    <div class="oc-item"><a href="#"><img src="images/clients/1.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/2.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/3.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/4.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/5.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/6.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/7.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/8.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/9.png" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/1-sebrae.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/2-ifcssc.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/3-logoufsc.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/4-cvbcostaesmeralda.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/5-redecostaesmeralda.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/6-rd.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/7-oaytour.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/8-aemb.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/9-ebusca-einova.png" alt="Parceiros"></a></div>
+                    <div class="oc-item"><a href="#"><img src="images/parceiros/10-hsystem.png" alt="Parceiros"></a></div>
 
                 </div>
 
