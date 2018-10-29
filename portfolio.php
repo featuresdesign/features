@@ -15,9 +15,10 @@
 
                     <li class="activeFilter"><a href="#" data-filter="*">TODOS</a></li>
                     <li><a href="#" data-filter=".design-de-produto">DESIGN DE PRODUTO</a></li>
-                    <li><a href="#" data-filter=".design-de-marcas">DESIGN DE PRODUTO</a></li>
+                    <li><a href="#" data-filter=".design-de-marcas">DESIGN DE MARCAS</a></li>
+                    <li><a href="#" data-filter=".grafico">DESIGN GRÁFICO</a></li>
                     <li><a href="#" data-filter=".website">WEB DESIGN</a></li>
-                    <li><a href="#" data-filter=".grafico-embalagem">GRÁFICO E EMBALAGEM</a></li>
+                    <li><a href="#" data-filter=".embalagem">EMBALAGEM</a></li>
                     <li><a href="#" data-filter=".sinalizacao">SINALIZAÇÃO</a></li>
                     <li><a href="#" data-filter=".design-promocional">DESIGN PROMOCIONAL</a></li>
 
@@ -29,263 +30,305 @@
                 ============================================= -->
                 <div id="portfolio" class="portfolio grid-container clearfix">
 
-                    <article class="portfolio-item sinalizacao design-de-produto">
+                    <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <a href="portfolio-single.html">
-                                <img src="images/portfolio/4/1.jpg" alt="Open Imagination">
+                            <a href="portfolio-item.php?projeto=projeto-teste">
+                                <img src="images/portfolio/dona-farofeira.jpg" alt="Dona Farofeira">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"
-                                   title="IMage"><i class="icon-line-plus"></i></a>
+                                <a href="images/portfolio/dona-farofeira.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
                                 <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
+                                            class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Projeto teste</a></h3>
-                            <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Dona Farofeira</a></h3>
+                            <span><a>Branding</a></span>
                         </div>
                     </article>
 
-                    <article class="portfolio-item website">
+                    <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <a href="portfolio-single.html">
-                                <img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
+                            <a href="portfolio-item.php?projeto=projeto-teste">
+                                <img src="images/portfolio/cvb-costa-esmeralda.jpg" alt="Costa Esmeralda">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/full/2.jpg" class="left-icon" data-lightbox="image"><i
-                                            class="icon-line-plus"></i></a>
-                                <a href="portfolio-single.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
+                                <a href="images/portfolio/cvb-costa-esmeralda.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                            class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-item.php?projeto=segundo-projeto">Locked Steel Gate</a></h3>
-                            <span><a href="#">Illustrations</a></span>
+                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Costa Esmeralda</a></h3>
+                            <span><a>Branding</a></span>
                         </div>
                     </article>
 
-                    <article class="portfolio-item design-promocional grafico-embalagem">
+                    <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <a href="#">
-                                <img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
+                            <a href="portfolio-item.php?projeto=projeto-teste">
+                                <img src="images/portfolio/hibisco.jpg" alt="Pousada Hibisco">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="http://vimeo.com/89396394" class="left-icon" data-lightbox="iframe"><i
-                                            class="icon-line-play"></i></a>
-                                <a href="portfolio-single-video.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
+                                <a href="images/portfolio/hibisco.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                            class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-                            <span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Pousada Hibisco</a></h3>
+                            <span><a>Branding</a></span>
                         </div>
                     </article>
 
-                    <article class="portfolio-item design-de-produto website">
+                    <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <div class="fslider" data-arrows="false" data-speed="400" data-pause="4000">
-                                <div class="flexslider">
-                                    <div class="slider-wrap">
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/4.jpg" alt="Morning Dew"></a></div>
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/4-1.jpg" alt="Morning Dew"></a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="portfolio-overlay" data-lightbox="gallery">
-                                <a href="images/portfolio/full/4.jpg" class="left-icon" data-lightbox="gallery-item"><i
-                                            class="icon-line-stack-2"></i></a>
-                                <a href="images/portfolio/full/4-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-                                <a href="portfolio-single-gallery.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3><a href="portfolio-single-gallery.html">Morning Dew</a></h3>
-                            <span><a href="#">Icons</a>, <a href="#">Illustrations</a></span>
-                        </div>
-                    </article>
-
-                    <article class="portfolio-item grafico-embalagem sinalizacao">
-                        <div class="portfolio-image">
-                            <a href="portfolio-single.html">
-                                <img src="images/portfolio/4/5.jpg" alt="Console Activity">
+                            <a href="portfolio-item.php?projeto=projeto-teste">
+                                <img src="images/portfolio/xis-das-gurias.jpg" alt="Xis das gurias">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/full/5.jpg" class="left-icon" data-lightbox="image"><i
-                                            class="icon-line-plus"></i></a>
-                                <a href="portfolio-single.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
+                                <a href="images/portfolio/xis-das-gurias.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                            class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-single.html">Console Activity</a></h3>
-                            <span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Xis das Gurias</a></h3>
+                            <span><a>Branding</a></span>
                         </div>
                     </article>
 
-                    <article class="portfolio-item design-promocional website">
+                    <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <div class="fslider" data-arrows="false">
-                                <div class="flexslider">
-                                    <div class="slider-wrap">
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/6.jpg" alt="Shake It"></a></div>
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/6-1.jpg" alt="Shake It"></a></div>
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/6-2.jpg" alt="Shake It"></a></div>
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/6-3.jpg" alt="Shake It"></a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="portfolio-overlay" data-lightbox="gallery">
-                                <a href="images/portfolio/full/6.jpg" class="left-icon" data-lightbox="gallery-item"><i
-                                            class="icon-line-stack-2"></i></a>
-                                <a href="images/portfolio/full/6-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-                                <a href="images/portfolio/full/6-2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-                                <a href="images/portfolio/full/6-3.jpg" class="hidden" data-lightbox="gallery-item"></a>
-                                <a href="portfolio-single-gallery.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3><a href="portfolio-single-gallery.html">Shake It!</a></h3>
-                            <span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
-                        </div>
-                    </article>
-
-                    <article class="portfolio-item grafico-embalagem design-de-produto">
-                        <div class="portfolio-image">
-                            <a href="portfolio-single-video.html">
-                                <img src="images/portfolio/4/7.jpg" alt="Backpack Contents">
+                            <a href="portfolio-item.php?projeto=projeto-teste">
+                                <img src="images/portfolio/auto-center-hs.jpg" alt="Auto center HS">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="http://www.youtube.com/watch?v=kuceVNBTJio" class="left-icon"
-                                   data-lightbox="iframe"><i class="icon-line-play"></i></a>
-                                <a href="portfolio-single-video.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
+                                <a href="images/portfolio/auto-center-hs.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                            class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-single-video.html">Backpack Contents</a></h3>
-                            <span><a href="#">UI Elements</a>, <a href="#">Icons</a></span>
+                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Auto center HS</a></h3>
+                            <span><a>Branding</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item embalagem">
+                        <div class="portfolio-image">
+                            <a href="portfolio-item.php?projeto=projeto-teste">
+                                <img src="images/portfolio/dona-farofeira-embalagem.jpg" alt="Dona Farofeira">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/dona-farofeira-embalagem.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                            class="icon-line-link"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Dona Farofeira</a></h3>
+                            <span><a>Embalagem</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item sinalizacao">
+                        <div class="portfolio-image">
+                            <a href="portfolio-item.php?projeto=projeto-teste">
+                                <img src="images/portfolio/hotel_marin.jpg" alt="Hotel Marin Château">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/hotel_marin.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                            class="icon-line-link"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Hotel Marin Château</a></h3>
+                            <span><a>Branding</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item design-de-marcas">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/fortec-fachada.jpg" alt="FORTEC Construtora & Incorporadora">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/fortec-fachada.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>FORTEC Construtora</a></h3>
+                            <span><a>Sinalização e Fachada</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item sinalizacao">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/folster_01.jpg" alt="Folster presentes">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/folster_01.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>Folster presentes</a></h3>
+                            <span><a>Sinalização</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item grafico">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/folder_fortec.jpg" alt="FORTEC Construtora & Incorporadora">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/folder_fortec.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>FORTEC Construtora</a></h3>
+                            <span><a>Folder de divulgação</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item design-de-marcas">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/fortec_logotipo.jpg" alt="FORTEC Construtora & Incorporadora">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/fortec_logotipo.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>FORTEC Construtora</a></h3>
+                            <span><a>Redesign do Logotipo</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item grafico">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/fortec-folder.jpg" alt="FORTEC Construtora & Incorporadora">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/fortec-folder.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>FORTEC Construtora</a></h3>
+                            <span><a>Folder de divulgação</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item sinalizacao">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/logo_marin.jpg" alt="Hotel Marin Château">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/logo_marin.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>Hotel Marin Château</a></h3>
+                            <span><a>Naming e Logotipo</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item sinalizacao">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/sinalizacao_portas_marin.jpg" alt="Hotel Marin Château">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/sinalizacao_portas_marin.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>Hotel Marin Château</a></h3>
+                            <span><a>Adesivagem de portas</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item design-de-produto">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/enlace.jpg" alt="Projeto Enlace">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/enlace.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>Projeto Enlace</a></h3>
+                            <span><a>Produto acrílico</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item design-de-produto">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/luminaria.jpg" alt="Luminária ECO">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/luminaria.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>Luminária ECO</a></h3>
+                            <span><a>Produto ecologico</a></span>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item grafico">
+                        <div class="portfolio-image">
+                            <a>
+                                <img src="images/portfolio/revista_rede.jpg" alt="Rede Costa Esmeralda">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/revista_rede.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
+                            </div>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a>Rede Costa Esmeralda</a></h3>
+                            <span><a>Editorial</a></span>
                         </div>
                     </article>
 
                     <article class="portfolio-item design-promocional">
                         <div class="portfolio-image">
-                            <a href="portfolio-single.html">
-                                <img src="images/portfolio/4/8.jpg" alt="Sunset Bulb Glow">
+                            <a>
+                                <img src="images/portfolio/ecobag.jpg" alt="Pousada do Marujo">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/full/8.jpg" class="left-icon" data-lightbox="image"><i
-                                            class="icon-line-plus"></i></a>
-                                <a href="portfolio-single.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
+                                <a href="images/portfolio/ecobag.jpg" class="left-icon" data-lightbox="image"
+                                   title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-single.html">Sunset Bulb Glow</a></h3>
-                            <span><a href="#">Graphics</a></span>
-                        </div>
-                    </article>
-
-                    <article class="portfolio-item website design-de-produto">
-                        <div class="portfolio-image">
-                            <div class="fslider" data-arrows="false" data-speed="650" data-pause="3500"
-                                 data-animation="fade">
-                                <div class="flexslider">
-                                    <div class="slider-wrap">
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/9.jpg" alt="Bridge Side"></a></div>
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/9-1.jpg" alt="Bridge Side"></a></div>
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/9-2.jpg" alt="Bridge Side"></a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="portfolio-overlay" data-lightbox="gallery">
-                                <a href="images/portfolio/full/9.jpg" class="left-icon" data-lightbox="gallery-item"><i
-                                            class="icon-line-stack-2"></i></a>
-                                <a href="images/portfolio/full/9-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-                                <a href="images/portfolio/full/9-2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-                                <a href="portfolio-single-gallery.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3><a href="portfolio-single.html">Bridge Side</a></h3>
-                            <span><a href="#">Illustrations</a>, <a href="#">Icons</a></span>
-                        </div>
-                    </article>
-
-                    <article class="portfolio-item design-promocional sinalizacao grafico-embalagem">
-                        <div class="portfolio-image">
-                            <a href="portfolio-single-video.html">
-                                <img src="images/portfolio/4/10.jpg" alt="Study Table">
-                            </a>
-                            <div class="portfolio-overlay">
-                                <a href="http://vimeo.com/91973305" class="left-icon" data-lightbox="iframe"><i
-                                            class="icon-line-play"></i></a>
-                                <a href="portfolio-single-video.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3><a href="portfolio-single-video.html">Study Table</a></h3>
-                            <span><a href="#">Graphics</a>, <a href="#">Media</a></span>
-                        </div>
-                    </article>
-
-                    <article class="portfolio-item sinalizacao design-de-produto">
-                        <div class="portfolio-image">
-                            <a href="portfolio-single.html">
-                                <img src="images/portfolio/4/11.jpg" alt="Workspace Stuff">
-                            </a>
-                            <div class="portfolio-overlay">
-                                <a href="images/portfolio/full/11.jpg" class="left-icon" data-lightbox="image"><i
-                                            class="icon-line-plus"></i></a>
-                                <a href="portfolio-single.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3><a href="portfolio-single.html">Workspace Stuff</a></h3>
-                            <span><a href="#">Media</a>, <a href="#">Icons</a></span>
-                        </div>
-                    </article>
-
-                    <article class="portfolio-item website design-promocional">
-                        <div class="portfolio-image">
-                            <div class="fslider" data-arrows="false" data-speed="700" data-pause="7000">
-                                <div class="flexslider">
-                                    <div class="slider-wrap">
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/12.jpg" alt="Fixed Aperture"></a></div>
-                                        <div class="slide"><a href="portfolio-single-gallery.html"><img
-                                                        src="images/portfolio/4/12-1.jpg" alt="Fixed Aperture"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="portfolio-overlay" data-lightbox="gallery">
-                                <a href="images/portfolio/full/12.jpg" class="left-icon" data-lightbox="gallery-item"><i
-                                            class="icon-line-stack-2"></i></a>
-                                <a href="images/portfolio/full/12-1.jpg" class="hidden"
-                                   data-lightbox="gallery-item"></a>
-                                <a href="portfolio-single-gallery.html" class="right-icon"><i
-                                            class="icon-line-ellipsis"></i></a>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3><a href="portfolio-single-gallery.html">Fixed Aperture</a></h3>
-                            <span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
+                            <h3><a>Rede Costa Esmeralda</a></h3>
+                            <span><a>Ecobag de brinde</a></span>
                         </div>
                     </article>
 
@@ -296,4 +339,52 @@
         </div>
 
     </section><!-- #content end -->
+
+<!--
+PADRAO VIDEO
+<article class="portfolio-item design-promocional embalagem">
+    <div class="portfolio-image">
+        <a href="#">
+            <img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
+        </a>
+        <div class="portfolio-overlay">
+            <a href="http://vimeo.com/89396394" class="left-icon" data-lightbox="iframe"><i
+                        class="icon-line-play"></i></a>
+            <a href="portfolio-single-video.html" class="right-icon"><i
+                        class="icon-line-link"></i></a>
+        </div>
+    </div>
+    <div class="portfolio-desc">
+        <h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+        <span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+    </div>
+</article>
+
+PADRAO GALERIA
+<article class="portfolio-item design-de-produto website">
+    <div class="portfolio-image">
+        <div class="fslider" data-arrows="false" data-speed="400" data-pause="4000">
+            <div class="flexslider">
+                <div class="slider-wrap">
+                    <div class="slide"><a href="portfolio-single-gallery.html"><img
+                                    src="images/portfolio/4/4.jpg" alt="Morning Dew"></a></div>
+                    <div class="slide"><a href="portfolio-single-gallery.html"><img
+                                    src="images/portfolio/4/4-1.jpg" alt="Morning Dew"></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-overlay" data-lightbox="gallery">
+            <a href="images/portfolio/full/4.jpg" class="left-icon" data-lightbox="gallery-item"><i
+                        class="icon-line-stack-2"></i></a>
+            <a href="images/portfolio/full/4-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
+            <a href="portfolio-single-gallery.html" class="right-icon"><i
+                        class="icon-line-link"></i></a>
+        </div>
+    </div>
+    <div class="portfolio-desc">
+        <h3><a href="portfolio-single-gallery.html">Morning Dew</a></h3>
+        <span><a href="#">Icons</a>, <a href="#">Illustrations</a></span>
+    </div>
+</article>
+-->
 <?php include_once "_footer.php"; ?>
