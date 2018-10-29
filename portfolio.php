@@ -14,12 +14,12 @@
                 <ul class="portfolio-filter clearfix" data-container="#portfolio">
 
                     <li class="activeFilter"><a href="#" data-filter="*">TODOS</a></li>
-                    <li><a href="#" data-filter=".pf-icons">DESIGN DE PRODUTO</a></li>
+                    <li><a href="#" data-filter=".design-de-produto">DESIGN DE PRODUTO</a></li>
                     <li><a href="#" data-filter=".design-de-marcas">DESIGN DE PRODUTO</a></li>
-                    <li><a href="#" data-filter=".pf-illustrations">WEB DESIGN</a></li>
-                    <li><a href="#" data-filter=".pf-uielements">GRÁFICO E EMBALAGEM</a></li>
-                    <li><a href="#" data-filter=".pf-media">SINALIZAÇÃO</a></li>
-                    <li><a href="#" data-filter=".pf-graphics">DESIGN PROMOCIONAL</a></li>
+                    <li><a href="#" data-filter=".website">WEB DESIGN</a></li>
+                    <li><a href="#" data-filter=".grafico-embalagem">GRÁFICO E EMBALAGEM</a></li>
+                    <li><a href="#" data-filter=".sinalizacao">SINALIZAÇÃO</a></li>
+                    <li><a href="#" data-filter=".design-promocional">DESIGN PROMOCIONAL</a></li>
 
                 </ul><!-- #portfolio-filter end -->
 
@@ -29,7 +29,7 @@
                 ============================================= -->
                 <div id="portfolio" class="portfolio grid-container clearfix">
 
-                    <article class="portfolio-item pf-media pf-icons">
+                    <article class="portfolio-item sinalizacao design-de-produto">
                         <div class="portfolio-image">
                             <a href="portfolio-single.html">
                                 <img src="images/portfolio/4/1.jpg" alt="Open Imagination">
@@ -47,7 +47,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-illustrations">
+                    <article class="portfolio-item website">
                         <div class="portfolio-image">
                             <a href="portfolio-single.html">
                                 <img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
@@ -65,7 +65,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-graphics pf-uielements">
+                    <article class="portfolio-item design-promocional grafico-embalagem">
                         <div class="portfolio-image">
                             <a href="#">
                                 <img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
@@ -83,7 +83,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-icons pf-illustrations">
+                    <article class="portfolio-item design-de-produto website">
                         <div class="portfolio-image">
                             <div class="fslider" data-arrows="false" data-speed="400" data-pause="4000">
                                 <div class="flexslider">
@@ -109,7 +109,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-uielements pf-media">
+                    <article class="portfolio-item grafico-embalagem sinalizacao">
                         <div class="portfolio-image">
                             <a href="portfolio-single.html">
                                 <img src="images/portfolio/4/5.jpg" alt="Console Activity">
@@ -127,7 +127,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-graphics pf-illustrations">
+                    <article class="portfolio-item design-promocional website">
                         <div class="portfolio-image">
                             <div class="fslider" data-arrows="false">
                                 <div class="flexslider">
@@ -159,7 +159,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-uielements pf-icons">
+                    <article class="portfolio-item grafico-embalagem design-de-produto">
                         <div class="portfolio-image">
                             <a href="portfolio-single-video.html">
                                 <img src="images/portfolio/4/7.jpg" alt="Backpack Contents">
@@ -177,7 +177,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-graphics">
+                    <article class="portfolio-item design-promocional">
                         <div class="portfolio-image">
                             <a href="portfolio-single.html">
                                 <img src="images/portfolio/4/8.jpg" alt="Sunset Bulb Glow">
@@ -195,7 +195,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-illustrations pf-icons">
+                    <article class="portfolio-item website design-de-produto">
                         <div class="portfolio-image">
                             <div class="fslider" data-arrows="false" data-speed="650" data-pause="3500"
                                  data-animation="fade">
@@ -225,7 +225,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-graphics pf-media pf-uielements">
+                    <article class="portfolio-item design-promocional sinalizacao grafico-embalagem">
                         <div class="portfolio-image">
                             <a href="portfolio-single-video.html">
                                 <img src="images/portfolio/4/10.jpg" alt="Study Table">
@@ -243,7 +243,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-media pf-icons">
+                    <article class="portfolio-item sinalizacao design-de-produto">
                         <div class="portfolio-image">
                             <a href="portfolio-single.html">
                                 <img src="images/portfolio/4/11.jpg" alt="Workspace Stuff">
@@ -261,7 +261,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item pf-illustrations pf-graphics">
+                    <article class="portfolio-item website design-promocional">
                         <div class="portfolio-image">
                             <div class="fslider" data-arrows="false" data-speed="700" data-pause="7000">
                                 <div class="flexslider">
