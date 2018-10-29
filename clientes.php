@@ -12,7 +12,7 @@
             <li><a><img src="images/clientes/logos/1-capitao-saude.png" alt="Clients"></a></li>
             <li><a><img src="images/clientes/logos/2-casa-do-turista.png" alt="Clients"></a></li>
             <li><a><img src="images/clientes/logos/3-shopping-punta-blu.png" alt="Clients"></a></li>
-            <li><a><img src="images/clientes/logos/4-negrini-artesanatos.png" alt="Clients"></a></li>
+            <li><a><img src="images/clientes/logos/36-sebrae.png" alt="Clients"></a></li>
             <li><a><img src="images/clientes/logos/5-caramelo-terapia.png" alt="Clients"></a></li>
             <li><a><img src="images/clientes/logos/6-auto-center-hs.png" alt="Clients"></a></li>
             <li><a><img src="images/clientes/logos/7-xis-das-gurias.png" alt="Clients"></a></li>
@@ -44,7 +44,6 @@
             <li><a><img src="images/clientes/logos/33-morada-do-guaruca.png" alt="Clients"></a></li>
             <li><a><img src="images/clientes/logos/34-morada-baden-baden.png" alt="Clients"></a></li>
             <li><a><img src="images/clientes/logos/35-cdl-bombinhas.png" alt="Clients"></a></li>
-            <li><a><img src="images/clientes/logos/36-sebrae.png" alt="Clients"></a></li>
         </ul>
 
     </div>
