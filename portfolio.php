@@ -156,7 +156,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item design-de-marcas">
+                    <article class="portfolio-item sinalizacao">
                         <div class="portfolio-image">
                             <a>
                                 <img src="images/portfolio/fortec-fachada.jpg" alt="FORTEC Construtora & Incorporadora">
@@ -236,7 +236,7 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item sinalizacao">
+                    <article class="portfolio-item design-de-marca">
                         <div class="portfolio-image">
                             <a>
                                 <img src="images/portfolio/logo_marin.jpg" alt="Hotel Marin Château">
@@ -327,7 +327,7 @@
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a>Rede Costa Esmeralda</a></h3>
+                            <h3><a>Pousada do Marujo</a></h3>
                             <span><a>Ecobag de brinde</a></span>
                         </div>
                     </article>
