@@ -66,7 +66,7 @@
                         <li class="mega-menu"><a href="#"><div>Serviços</div></a>
                             <div class="mega-menu-content style-2 clearfix">
                                 <ul class="mega-menu-column col-lg-4">
-                                    <li class="mega-menu-title"><a href="#" class=""><div><i class="icon-like teste"></i> MIDIAS SOCIAIS</div></a>
+                                    <li class="mega-menu-title"><a href="#" class=""><div><i class="icon-like teste"></i> Design estratégico</div></a>
                                         <ul>
                                             <li><a href="full-width.html"><div>Full Width</div></a></li>
                                             <li><a href="full-width-wide.html"><div>Full Width - Wide</div></a></li>
@@ -74,7 +74,7 @@
                                     </li>
                                 </ul>
                                 <ul class="mega-menu-column col-lg-4">
-                                    <li class="mega-menu-title"><a href="#"><div><i class="icon-megaphone"></i> MARKETING DIGITAL</div></a>
+                                    <li class="mega-menu-title"><a href="#"><div><i class="icon-megaphone"></i> Marketing digital</div></a>
                                         <ul>
                                             <li><a href="login-register.html"><div>Login/Register</div></a></li>
                                             <li><a href="login-register-2.html"><div>Login/Register - Style 2</div></a></li>
@@ -82,7 +82,7 @@
                                     </li>
                                 </ul>
                                 <ul class="mega-menu-column col-lg-4">
-                                    <li class="mega-menu-title"><a href="#"><div><i class="icon-mobile"></i>WEB</div></a>
+                                    <li class="mega-menu-title"><a href="#"><div><i class="icon-mobile"></i> Web design</div></a>
                                         <ul>
                                             <li><a href="websites.php"><div>Websites responsivos</div></a></li>
                                             <li><a href="login-register-2.html"><div>Manutenção de websites</div></a></li>

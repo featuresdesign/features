@@ -15,6 +15,7 @@
 
                     <li class="activeFilter"><a href="#" data-filter="*">TODOS</a></li>
                     <li><a href="#" data-filter=".pf-icons">DESIGN DE PRODUTO</a></li>
+                    <li><a href="#" data-filter=".design-de-marcas">DESIGN DE PRODUTO</a></li>
                     <li><a href="#" data-filter=".pf-illustrations">WEB DESIGN</a></li>
                     <li><a href="#" data-filter=".pf-uielements">GRÁFICO E EMBALAGEM</a></li>
                     <li><a href="#" data-filter=".pf-media">SINALIZAÇÃO</a></li>
