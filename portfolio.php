@@ -32,54 +32,54 @@
 
                     <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <a href="portfolio-item.php?projeto=projeto-teste">
+                            <a href="portfolio-dona-farofeira.php">
                                 <img src="images/portfolio/dona-farofeira.jpg" alt="Dona Farofeira">
                             </a>
                             <div class="portfolio-overlay">
                                 <a href="images/portfolio/dona-farofeira.jpg" class="left-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
-                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                <a href="portfolio-dona-farofeira.php" class="right-icon"><i
                                             class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Dona Farofeira</a></h3>
+                            <h3><a href="portfolio-dona-farofeira.php">Dona Farofeira</a></h3>
                             <span><a>Branding</a></span>
                         </div>
                     </article>
 
                     <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <a href="portfolio-item.php?projeto=projeto-teste">
+                            <a href="portfolio-cvb.php">
                                 <img src="images/portfolio/cvb-costa-esmeralda.jpg" alt="Costa Esmeralda">
                             </a>
                             <div class="portfolio-overlay">
                                 <a href="images/portfolio/cvb-costa-esmeralda.jpg" class="left-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
-                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                <a href="portfolio-cvb.php" class="right-icon"><i
                                             class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Costa Esmeralda</a></h3>
+                            <h3><a href="portfolio-cvb.php">Costa Esmeralda</a></h3>
                             <span><a>Branding</a></span>
                         </div>
                     </article>
 
                     <article class="portfolio-item design-de-marcas">
                         <div class="portfolio-image">
-                            <a href="portfolio-item.php?projeto=projeto-teste">
+                            <a href="portfolio-hibisco.php">
                                 <img src="images/portfolio/hibisco.jpg" alt="Pousada Hibisco">
                             </a>
                             <div class="portfolio-overlay">
                                 <a href="images/portfolio/hibisco.jpg" class="left-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
-                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
+                                <a href="portfolio-hibisco.php" class="right-icon"><i
                                             class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="portfolio-item.php?projeto=projeto-teste">Pousada Hibisco</a></h3>
+                            <h3><a href="portfolio-hibisco.php">Pousada Hibisco</a></h3>
                             <span><a>Branding</a></span>
                         </div>
                     </article>
@@ -90,10 +90,8 @@
                                 <img src="images/portfolio/xis-das-gurias.jpg" alt="Xis das gurias">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/xis-das-gurias.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/xis-das-gurias.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
-                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
-                                            class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">
@@ -108,10 +106,8 @@
                                 <img src="images/portfolio/auto-center-hs.jpg" alt="Auto center HS">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/auto-center-hs.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/auto-center-hs.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
-                                <a href="portfolio-item.php?projeto=projeto-teste" class="right-icon"><i
-                                            class="icon-line-link"></i></a>
                             </div>
                         </div>
                         <div class="portfolio-desc">

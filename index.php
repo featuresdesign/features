@@ -74,11 +74,11 @@
                     <div class="portfolio-overlay">
                         <a href="images/portfolio/dona-farofeira.jpg" class="left-icon" data-lightbox="image"><i
                                     class="icon-line-zoom-in"></i></a>
-                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-link"></i></a>
+                        <a href="portfolio-dona-farofeira.php" class="right-icon"><i class="icon-line-link"></i></a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single.html">Dona Farofeira</a></h3>
+                    <h3><a href="portfolio-dona-farofeira.php">Dona Farofeira</a></h3>
                     <span><a>Branding</a></span>
                 </div>
             </article>
@@ -91,11 +91,11 @@
                     <div class="portfolio-overlay">
                         <a href="images/portfolio/cvb-costa-esmeralda.jpg" class="left-icon" data-lightbox="image"><i
                                     class="icon-line-zoom-in"></i></a>
-                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-link"></i></a>
+                        <a href="portfolio-cvb.php" class="right-icon"><i class="icon-line-link"></i></a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single.html">Costa Esmeralda</a></h3>
+                    <h3><a href="portfolio-cvb.php">Costa Esmeralda</a></h3>
                     <span><a>Branding</a></span>
                 </div>
             </article>
@@ -108,11 +108,11 @@
                     <div class="portfolio-overlay">
                         <a href="images/portfolio/hibisco.jpg" class="left-icon" data-lightbox="image"><i
                                     class="icon-line-zoom-in"></i></a>
-                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-link"></i></a>
+                        <a href="portfolio-hibisco.php" class="right-icon"><i class="icon-line-link"></i></a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single.html">Pousada Hibisco</a></h3>
+                    <h3><a href="portfolio-hibisco.php">Pousada Hibisco</a></h3>
                     <span><a>Branding</a></span>
                 </div>
             </article>
