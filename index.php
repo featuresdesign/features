@@ -68,71 +68,68 @@
 
             <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
-                        <img src="images/portfolio/4/1.jpg" alt="Open Imagination">
+                    <a>
+                        <img src="images/portfolio/dona-farofeira.jpg" alt="Dona Farofeira">
                     </a>
                     <div class="portfolio-overlay">
-                        <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i
-                                    class="icon-line-plus"></i></a>
-                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        <a href="images/portfolio/dona-farofeira.jpg" class="left-icon" data-lightbox="image"><i
+                                    class="icon-line-zoom-in"></i></a>
+                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-link"></i></a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single.html">Open Imagination</a></h3>
-                    <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                    <h3><a href="portfolio-single.html">Dona Farofeira</a></h3>
+                    <span><a>Branding</a></span>
                 </div>
             </article>
 
-            <article class="portfolio-item pf-illustrations">
+            <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
-                        <img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
+                    <a>
+                        <img src="images/portfolio/cvb-costa-esmeralda.jpg" alt="Costa Esmeralda">
                     </a>
                     <div class="portfolio-overlay">
-                        <a href="images/portfolio/full/2.jpg" class="left-icon" data-lightbox="image"><i
-                                    class="icon-line-plus"></i></a>
-                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        <a href="images/portfolio/cvb-costa-esmeralda.jpg" class="left-icon" data-lightbox="image"><i
+                                    class="icon-line-zoom-in"></i></a>
+                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-link"></i></a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
-                    <span><a href="#">Illustrations</a></span>
+                    <h3><a href="portfolio-single.html">Costa Esmeralda</a></h3>
+                    <span><a>Branding</a></span>
                 </div>
             </article>
 
-            <article class="portfolio-item pf-graphics pf-uielements">
+            <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
-                    <a href="#">
-                        <img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
+                    <a>
+                        <img src="images/portfolio/hibisco.jpg" alt="Pousada Hibisco">
                     </a>
                     <div class="portfolio-overlay">
-                        <a href="http://vimeo.com/89396394" class="left-icon" data-lightbox="iframe"><i
-                                    class="icon-line-play"></i></a>
-                        <a href="portfolio-single-video.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        <a href="images/portfolio/hibisco.jpg" class="left-icon" data-lightbox="image"><i
+                                    class="icon-line-zoom-in"></i></a>
+                        <a href="portfolio-single.html" class="right-icon"><i class="icon-line-link"></i></a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-                    <span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+                    <h3><a href="portfolio-single.html">Pousada Hibisco</a></h3>
+                    <span><a>Branding</a></span>
                 </div>
             </article>
 
-            <article class="portfolio-item pf-icons pf-illustrations">
+            <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
-                    <a href="portfolio-single.html">
-                        <img src="images/portfolio/4/4.jpg" alt="Open Imagination">
+                    <a>
+                        <img src="images/portfolio/xis-das-gurias.jpg" alt="Xis das Gurias">
                     </a>
-                    <div class="portfolio-overlay" data-lightbox="gallery">
-                        <a href="images/portfolio/full/4.jpg" class="left-icon" data-lightbox="gallery-item"><i
-                                    class="icon-line-stack-2"></i></a>
-                        <a href="images/portfolio/full/4-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-                        <a href="portfolio-single-gallery.html" class="right-icon"><i
-                                    class="icon-line-ellipsis"></i></a>
+                    <div class="portfolio-overlay">
+                        <a href="images/portfolio/xis-das-gurias.jpg" class="center-icon" data-lightbox="image"><i
+                                    class="icon-line-zoom-in"></i></a>
                     </div>
                 </div>
                 <div class="portfolio-desc">
-                    <h3><a href="portfolio-single-gallery.html">Morning Dew</a></h3>
-                    <span><a href="#"><a href="#">Icons</a>, <a href="#">Illustrations</a></span>
+                    <h3><a>Xis das Gurias</a></h3>
+                    <span><a>Branding</a></span>
                 </div>
             </article>
 

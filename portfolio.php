@@ -162,7 +162,7 @@
                                 <img src="images/portfolio/fortec-fachada.jpg" alt="FORTEC Construtora & Incorporadora">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/fortec-fachada.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/fortec-fachada.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -178,7 +178,7 @@
                                 <img src="images/portfolio/folster_01.jpg" alt="Folster presentes">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/folster_01.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/folster_01.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                                 <img src="images/portfolio/folder_fortec.jpg" alt="FORTEC Construtora & Incorporadora">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/folder_fortec.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/folder_fortec.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -210,7 +210,7 @@
                                 <img src="images/portfolio/fortec_logotipo.jpg" alt="FORTEC Construtora & Incorporadora">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/fortec_logotipo.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/fortec_logotipo.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -226,7 +226,7 @@
                                 <img src="images/portfolio/fortec-folder.jpg" alt="FORTEC Construtora & Incorporadora">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/fortec-folder.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/fortec-folder.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -242,7 +242,7 @@
                                 <img src="images/portfolio/logo_marin.jpg" alt="Hotel Marin Château">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/logo_marin.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/logo_marin.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -258,7 +258,7 @@
                                 <img src="images/portfolio/sinalizacao_portas_marin.jpg" alt="Hotel Marin Château">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/sinalizacao_portas_marin.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/sinalizacao_portas_marin.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -274,7 +274,7 @@
                                 <img src="images/portfolio/enlace.jpg" alt="Projeto Enlace">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/enlace.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/enlace.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -290,7 +290,7 @@
                                 <img src="images/portfolio/luminaria.jpg" alt="Luminária ECO">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/luminaria.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/luminaria.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -306,7 +306,7 @@
                                 <img src="images/portfolio/revista_rede.jpg" alt="Rede Costa Esmeralda">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/revista_rede.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/revista_rede.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
@@ -322,7 +322,7 @@
                                 <img src="images/portfolio/ecobag.jpg" alt="Pousada do Marujo">
                             </a>
                             <div class="portfolio-overlay">
-                                <a href="images/portfolio/ecobag.jpg" class="left-icon" data-lightbox="image"
+                                <a href="images/portfolio/ecobag.jpg" class="center-icon" data-lightbox="image"
                                    title="Imagem"><i class="icon-line-zoom-in"></i></a>
                             </div>
                         </div>
